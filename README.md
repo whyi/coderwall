@@ -1,4 +1,4 @@
-codewall
+coderwall
 ========
 
-example for the codewall submission
+example for the coderwall submission
